@@ -12,4 +12,7 @@ public void test(){
 public void show(){
 	
 }
+public void test2(){
+	
+}
 }
